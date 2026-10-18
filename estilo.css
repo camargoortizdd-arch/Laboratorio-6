@@ -1,0 +1,242 @@
+css
+.barra-superior {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000000; 
+  z-index: 1000;          
+  padding: 100px 0;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  background-color: #3a693dd8;  
+  border: 3px solid #171c16;
+  height: 60px;
+  margin-block: #000000;   
+}
+
+.menu li, .menu a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-family: comic sans ms;
+}
+
+.contenido {  
+  margin-top: 20px; 
+  padding: 10px;
+  background-color: #02020294; 
+  border: 3px solid #000000;
+
+}
+.contenido h2, h1 {
+  color: #ffffff; 
+  font-family: comic sans ms;
+  gap: 20px;
+}
+.contenido a {
+  color: #ffffff; 
+  font-family: comic sans ms;
+  gap: 30px;
+}
+
+
+body {
+  margin: 10px;
+  font-family: Arial, sans-serif;
+  background-image: url('Proyecto final.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.introduccion {
+  margin-bottom: 20px;
+  padding: 5px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.introduccion h2, p {
+  color: #ffffff; 
+  font-family: comic sans ms;
+  padding: 0;
+}
+
+
+.glizzy {
+  list-style: none;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  background-color: #a4a364;  
+  
+}
+.links {
+  list-style: none;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+.footer p {
+  color: #000000; 
+ 
+}
+.links a {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: comic sans ms;
+}
+.links {
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+}
+.Glizzytan {
+  margin-top : 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.stendra {
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.Paya {
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.Lazaro {
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.Capitulo1 {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: left;
+  margin-top : 20px;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.Capitulo2 {
+  Display: flex;
+  gap: 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+} 
+.Capitulo3 {
+  Display: flex;
+  gap: 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+} 
+.Capitulo4 {
+  Display: flex;
+  gap: 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.Capitulo5 {
+  Display: flex;
+  gap: 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+} 
+.Capitulo6 {
+  Display: flex;
+  gap: 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+} 
+.Capitulo7 {
+  Display: flex;
+  gap: 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.Capitulo8 {
+  Display: flex;
+  gap: 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+} 
+.Capitulo9 {
+  Display: flex;
+  gap: 20px;
+  justify-content: left;
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+} 
+
+.trivia {
+
+  PADDING: 10PX;
+  margin-left: 10px;
+  border: 3px solid #ff5733;
+  background-color: #020202bc;
+}
+.trivia p
+{
+  color: #ffffff; 
+  font-family: comic sans ms;
+  padding: 0;
+  border: 1px solid #ff5733;
+  margin: 10px;
+  padding: 10px;
+}
+.galeria figcaption
+{
+  color: #ffffff; 
+  font-family: comic sans ms;
+}
